@@ -25,7 +25,7 @@ This can be whatever you usually use
 
 ### Package names
 
-We've assembled a list of R package names that are on CRAN. They're in the package-names.csv file in this repository. During the game, you'll use this list to randomly select a package name. 
+I've assembled a list of R package names that are on CRAN. They're in the `package-names.csv` file in this repository. During the game, you'll use this list to randomly select a package name. 
 
 You can curate this list so that you only have a select set, maybe ones in a particular category, or that are meaningful to your group. 
 
