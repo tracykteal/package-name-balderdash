@@ -44,7 +44,13 @@ package_names <- read_csv("package-names.csv")
 
 # Select a random package
 
-pull(sample_n(package_names, 1)[1])
+pkgname <- sample_n(package_names, 1)
+
+pull(pkgname[1])
+
+# To get the actual description of the package
+pull(pkgname[2])
+
 ```
 
 
